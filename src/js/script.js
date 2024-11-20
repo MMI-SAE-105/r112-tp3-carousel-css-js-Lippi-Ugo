@@ -6,13 +6,14 @@ const nextButton = document.querySelector(".carousel__button--next");
 // Largeur de défilement d’un item
 if (carousel) {
   // Scroll au clic sur le bouton précédent
-  prevButton.addEventListener("click", () => {
-    carousel.scrollBy({ left: -260, behavior: "smooth" });
+  prevButton.____________("_____", () => {
+    ______________________;
   });
 
   // Scroll au clic sur le bouton suivant
-  nextButton.addEventListener("click", () => {
-    carousel.scrollBy({ left: +260, behavior: "smooth" });
+  nextButton.____________("_____", () => {
+    ______________________;
   });
+}
 }
 // TODO
