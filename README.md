@@ -1,6 +1,6 @@
-- nom :
-- prénom :
-- URL Netlify :
+- nom :Lippi
+- prénom :Ugo
+- URL Netlify : bright-torte-7a3ad4.netlify.app
 
 # Travail
 
